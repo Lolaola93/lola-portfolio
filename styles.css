@@ -397,6 +397,10 @@ ul { list-style: none; margin: 0; padding: 0; }
   color: rgba(246, 241, 230, 0.55);
   cursor: default;
 }
+.card__links {
+  display: flex;
+  gap: 1.75rem;
+}
 
 .carousel__arrow {
   position: relative;
